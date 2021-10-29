@@ -1,5 +1,6 @@
 # Complete Responsive Restaurant Website 🍕🍔🌭🍗😋
 ## [You can view the live website](https://restaurant-and-food-website.netlify.app/)
+![restaurant-website](/Restaurant_Website_screenshot2.png)
 ###  Complete Responsive Restaurant Website 🍕🍔🌭🍗😋
 
 - Restaurant website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
@@ -15,4 +16,4 @@
 
 Stay tune version 2 will be uploaded soon. [Timex19](https://www.github.com/timex19).
 
-![restaurant-website](/Restaurant_Website_screenshot.png)
+![restaurant-website](/Restaurant_Website_screenshot2.png)
