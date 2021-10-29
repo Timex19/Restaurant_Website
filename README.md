@@ -11,7 +11,7 @@
 
 ### How to get the code into your computer
 
-- To get the copy of the code in your computer, you just need to clone the repository using "git clone https://github.com/Timex19/Restaurant_Website.git".
+- To get the copy of the code in your computer, you just need to clone the repository using ```git clone https://github.com/Timex19/Restaurant_Website.git```.
 - That's all you have the copy of the code! 
 
 Stay tune version 2 will be uploaded soon. [Timex19](https://www.github.com/timex19).
