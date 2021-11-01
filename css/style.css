@@ -574,6 +574,10 @@ header .navbar a:hover{
 
 @media(max-width:450px){
 
+    *{
+        overflow-x: hidden;
+    }
+
     html{
         font-size: 50%;
     }
