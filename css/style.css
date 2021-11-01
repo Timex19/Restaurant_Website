@@ -582,6 +582,10 @@ header .navbar a:hover{
         font-size: 50%;
     }
 
+    .review .box-container .box img{
+        margin-top: -2.5rem;
+    }
+
     .order .row form .inputBox input{
         width:100%;
     }
